@@ -4,6 +4,27 @@ A new Flutter project.
 
 ## Getting Started
 
+
+
+
+# Weather App
+
+This is a weather app built with Flutter.
+
+![Weather App Screenshot](/home/piyush/Pictures/Screenshots/Screenshot from 2024-08-07 04-44-47.png)
+[Weather App Screenshot](/home/piyush/Pictures/Screenshots/Screenshot from 2024-08-07 04-45-10.png)
+[Weather App Screenshot](/home/piyush/Pictures/Screenshots/Screenshot from 2024-08-07 04-56-12.png)
+
+
+## Features
+- Displays current weather conditions
+
+- Allows users to search for weather by city
+- Uses OpenWeatherMap API for weather data
+- Uses Flutter's built-in `http` package for API requests
+- Uses Flutter's built-in `provider` package for state management
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
