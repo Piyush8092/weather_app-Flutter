@@ -11,9 +11,6 @@ A new Flutter project.
 
 This is a weather app built with Flutter.
 
-![Weather App Screenshot](/home/piyush/Pictures/Screenshots/Screenshot from 2024-08-07 04-44-47.png)
-[Weather App Screenshot](/home/piyush/Pictures/Screenshots/Screenshot from 2024-08-07 04-45-10.png)
-[Weather App Screenshot](/home/piyush/Pictures/Screenshots/Screenshot from 2024-08-07 04-56-12.png)
 
 
 ## Features
